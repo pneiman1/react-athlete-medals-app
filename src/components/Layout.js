@@ -11,8 +11,8 @@ export const Layout = props => (
     <div className="app-content">{props.children}</div>
     <footer>
       <p>
-        Judo Heroes is built</strong>
-        with <strong>React</strong> and <strong>Express</strong>.
+        This is a <strong>Judo Hero</strong> app built</strong>
+        with <strong>React</strong> and <strong>Express</strong>!
       </p>
     </footer>
   </div>
