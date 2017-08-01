@@ -1,1 +1,1 @@
-web: node views/src/index.ejs
+web: node src/views/index.ejs
