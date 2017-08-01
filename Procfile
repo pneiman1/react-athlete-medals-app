@@ -1,1 +1,1 @@
-web: node app.js
+web: node src/server-es5.js
