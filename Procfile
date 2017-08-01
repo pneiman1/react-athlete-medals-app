@@ -1,1 +1,1 @@
-web: node src/views/index.ejs
+web: node src/server-es5.js
