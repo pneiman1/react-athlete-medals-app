@@ -1,1 +1,1 @@
-web: node src/server-es5.js
+web: npm run build && npm start -- --port $PORT
