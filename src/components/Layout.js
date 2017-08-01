@@ -7,8 +7,12 @@ export const Layout = props => (
       <Link to="/">
         <img className="logo" src="/img/logo-judo-heroes.png" alt="Judo Heroes logo" />
       </Link>
+      <Link to="/">
+        <img className="logo" src="/img/judo1.jpeg" alt="Judo " />
+      </Link>
     </header>
     <div className="app-content">{props.children}</div>
+  
     <footer>
       <p>
         This is a <strong>Judo Hero</strong> app built

@@ -1,4 +1,5 @@
 const athletes = [
+ 
   {
     id: 'ilias-iliadis',
     name: 'Ilias Iliadis',
@@ -175,6 +176,20 @@ const athletes = [
       { id: 72, year: '2016', type: 'G', city: 'Kazan', event: 'European Championships', category: '+100kg' },
       { id: 73, year: '2016', type: 'G', city: 'Rio de Janeiro', event: 'Olympic Games', category: '+100kg' },
     ],
+  },
+    {
+    id: 'austin-powers',
+    name: 'Austin Powers',
+    country: {
+      id: 'br',
+      name: 'Britain',
+      icon: 'britishflag.png',
+    },
+    birth: '1938',
+    image: 'austinpowers.jpg',
+    cover: 'austinpowersbanner.jpg',
+    link: 'https://en.wikipedia.org/wiki/Austin_Powers_(character)',
+    medals: [],
   },
 ];
 
